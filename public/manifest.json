@@ -1,0 +1,16 @@
+{
+  "name": "FS Archive",
+  "short_name": "FS Archive",
+  "description": "Accédez à vos cours et sujets d'examen même hors ligne.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
